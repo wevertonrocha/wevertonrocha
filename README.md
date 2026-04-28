@@ -21,7 +21,11 @@
 
 ###
 
-<p align="left">I'm Weverton from Brazil<br><br>I am a Systems Information student transitioning my career into the technology field. I have a strong affinity for data and am always eager to learn new technologies.</p>
+<p align="left">Hello! 😉
+
+From industrial machining to software engineering, my career has always been driven by one thing: precision in solving complex problems.
+
+What I do: Currently, I lead the development and maintenance of critical systems. As the sole developer, I am responsible for the entire tech stack, ensuring the software lifecycle—from back-end architecture to DevOps—runs smoothly. I specialize in taking ownership of undocumented legacy challenges and transforming them into scalable, efficient solutions.</p>
 
 ###
 
